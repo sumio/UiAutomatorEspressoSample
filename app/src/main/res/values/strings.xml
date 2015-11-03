@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UiAutomator Espresso Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="showSettings">設定アプリを表示する</string>
+</resources>
